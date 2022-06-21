@@ -1,0 +1,7 @@
+REDIRECTS: OFF
+STORAGE: PACKAGES
+STRATEGY: MIN
+RESTRICTION: == net48
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Newtonsoft.Json (13.0.1)

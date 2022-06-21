@@ -1,0 +1,7 @@
+framework: auto-detect
+redirects: off
+storage: packages
+strategy: min
+source https://api.nuget.org/v3/index.json
+
+nuget Newtonsoft.Json 13.0.1
